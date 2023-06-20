@@ -10,7 +10,6 @@ library(dplyr)
 library(janitor)
 library(tidyr)
 library(data.table)
-library(mutate)
 
 #loads csv. files
 May_2022 <- read_csv("C:/Users/SOPHIA/Desktop/Trip Data May 2022 - April 2023/202205-divvy-tripdata.csv")
